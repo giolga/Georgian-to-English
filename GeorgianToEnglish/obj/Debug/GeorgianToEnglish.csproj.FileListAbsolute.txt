@@ -1,0 +1,7 @@
+C:\Users\GioLGA\Desktop\GeorgianToEnglish\GeorgianToEnglish\bin\Debug\GeorgianToEnglish.exe.config
+C:\Users\GioLGA\Desktop\GeorgianToEnglish\GeorgianToEnglish\bin\Debug\GeorgianToEnglish.exe
+C:\Users\GioLGA\Desktop\GeorgianToEnglish\GeorgianToEnglish\bin\Debug\GeorgianToEnglish.pdb
+C:\Users\GioLGA\Desktop\GeorgianToEnglish\GeorgianToEnglish\obj\Debug\GeorgianToEnglish.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\GeorgianToEnglish\GeorgianToEnglish\obj\Debug\GeorgianToEnglish.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\GeorgianToEnglish\GeorgianToEnglish\obj\Debug\GeorgianToEnglish.exe
+C:\Users\GioLGA\Desktop\GeorgianToEnglish\GeorgianToEnglish\obj\Debug\GeorgianToEnglish.pdb
